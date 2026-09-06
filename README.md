@@ -235,3 +235,6 @@ This repository serves as the official landing page for **300 The Movie**. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 300 The Movie today!**
+
+---
+**Last updated:** 2026-09-06 17:26:07 UTC
